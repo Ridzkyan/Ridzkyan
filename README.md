@@ -1,184 +1,250 @@
-<div align="center">
+﻿<div align="center">
 
-<!-- One Piece Grand Line Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Ridho%20Dzaky%20Raihan&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%98%A0%EF%B8%8F%20Setting%20Sail%20on%20the%20Grand%20Line%20of%20Code%20%E2%98%A0%EF%B8%8F&descAlignY=58&descSize=19" width="100%"/>
+<!-- ═══════════════════════════════════════════════════ -->
+<!--           FUTURISTIC ANIME HEADER                  -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-<!-- Typing SVG Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=210&section=header&text=Ridho%20Dzaky%20Raihan&fontSize=44&fontColor=00e5ff&animation=twinkling&fontAlignY=38&desc=%7E%20Code.%20Create.%20Evolve.%20%7E&descAlignY=58&descSize=18&descColor=7dd3fc" width="100%"/>
+
+<!-- TYPING ANIMATION -->
 <a href="https://github.com/Ridzkyan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=620&height=50&lines=Future+King+of+the+Coders+%E2%98%A0%EF%B8%8F;Mahasiswa+%7C+Frontend+%26+Backend+Explorer+%F0%9F%8C%8A;Ingin+Jago+Coding+Tanpa+Pusing...+%F0%9F%8D%96;Plot+Twist%3A+Tetap+Gas+Ngoding!+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&width=640&height=45&lines=%5B+SYSTEM+BOOT%3A+Ridzkyan+ONLINE+%5D+%E2%9A%A1;Full+Stack+Developer+%7C+Anime+Enthusiast+%F0%9F%8C%90;Mahasiswa+yang+Doyan+Ngoding+Diam-Diam+%F0%9F%92%BB;%E2%80%9CError+adalah+guru+terbaik.%E2%80%9D+%F0%9F%94%A5" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<!-- Badges Row -->
-<img src="https://komarev.com/ghpvc/?username=Ridzkyan&style=for-the-badge&color=e53e3e&label=BOUNTY+VIEWS" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Ridzkyan?style=for-the-badge&color=f59e0b&labelColor=111827&label=CREW+MEMBERS" alt="Followers"/>
+<!-- STATUS BADGES -->
+<img src="https://komarev.com/ghpvc/?username=Ridzkyan&style=flat-square&color=00e5ff&label=▶%20VISITORS" alt="Visitors"/>
+&ensp;
+<img src="https://img.shields.io/github/followers/Ridzkyan?style=flat-square&color=0ea5e9&labelColor=0d1117&label=◈%20FOLLOWERS" alt="Followers"/>
+&ensp;
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00e5ff?style=flat-square&labelColor=0d1117" alt="Status"/>
 
 </div>
 
----
+<br/>
 
-<!-- About Me Section (One Piece Logbook Style) -->
-<table align="center">
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                  ABOUT ME                          -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<table align="center" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
-### 📜 Captain's Logbook
+<h3>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20"/>
+  &nbsp;// ABOUT.ME
+</h3>
 
-```yaml
-Pirate_Name : Ridho Dzaky Raihan (Ridzkyan)
-Role        : Full-Stack Navigator 🧭
-Affiliation : Mugiwara Dev Crew 🏴‍☠️
-Current_Arc : University Student Arc 🎓
-Devil_Fruit : Gomu Gomu no Script (TypeScript / JS) ⚡
-Haki_Type   : Bug-Fixing Observation Haki 👁️
+```ts
+const ridzkyan = {
+  name    : "Ridho Dzaky Raihan",
+  alias   : "Ridzkyan",
+  status  : "Mahasiswa 🎓",
+  base    : "Indonesia 🇮🇩",
 
-Mission:
-  - Exploring the Grand Line of Web & Mobile Development 🌊
-  - Turning coffee into clean commits ☕
-  - Finding the legendary "One Piece" (Zero Error Code) 🏆
+  stack: {
+    frontend : ["React", "Next.js", "TypeScript"],
+    backend  : ["Node.js", "Go", "Python", "PHP"],
+    mobile   : ["Flutter", "Dart"],
+    database : ["MySQL"],
+  },
 
-Fun_Fact: >
-  "Ingin Menjadi Programmer Handal
-   Namun Enggan Ngoding..."
-   — Tapi pantang mundur di Grand Line! 🍖
+  currentFocus : "Jadi developer yang bisa ngoding",
+  funFact      : "Enggan ngoding... tapi selalu kelar 🤫",
+  philosophy   : "Berjalan pelan tidak masalah,
+                  yang penting tidak berhenti ✨",
+};
 ```
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="48%" align="center" valign="middle">
 
-<!-- One Piece HD Luffy GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWd6dXZ5NzU2NW9wOGZucHhwemRja3p5ZXNxd3Bkdmt3dXNhcHhjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="290px" alt="Luffy Running"/>
+<!-- ANIME PROFILE CARD -->
+<img src="assets/profile_pic.jpg" width="220px" style="border-radius:16px;" alt="Anime Avatar"/>
 
-<br/>
+<br/><br/>
 
-> 👒 *"Kalau kamu tidak berani ambil risiko, kamu tidak bisa menciptakan masa depan."*  
-> — **Monkey D. Luffy** ☠️
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260px" alt="Coding Anime GIF"/>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## ⚔️ Devil Fruits & Combat Arsenal (Tech Stack)
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              FUTURISTIC DIVIDER                    -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                 TECH STACK                         -->
+<!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
 
-**🗡️ Frontend Navigation (Sword Skills)**
+<h2>⚡ // TECH.STACK</h2>
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-
-**⚙️ Backend & Ship Engine**
-
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-
-**📱 Mobile & Treasure Vault (Database)**
-
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-**🧭 Navigator Tools**
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="Frontend Icons"/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,go&theme=dark" alt="Backend Icons"/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,mysql,git,github,vscode&theme=dark" alt="Other Icons"/>
+</p>
 
 </div>
 
----
+<br/>
 
-## 📊 Grand Line Voyage Stats
+<!-- ═══════════════════════════════════════════════════ -->
+<!--               GITHUB STATS                         -->
+<!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ridzkyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=EF4444&text_color=E6EDF3" height="165" alt="GitHub Stats"/>
+<h2>📡 // GITHUB.STATS</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ridzkyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&icon_color=0ea5e9&text_color=cdd9e5&ring_color=00e5ff" height="165" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridzkyan&theme=tokyonight&hide_border=true&background=0D1117&stroke=F59E0B&ring=EF4444&fire=EF4444&currStreakLabel=F59E0B&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF" height="165" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridzkyan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00e5ff&ring=0ea5e9&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=cdd9e5&currStreakNum=ffffff&sideNums=ffffff" height="165" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridzkyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=E6EDF3" height="150" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridzkyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&text_color=cdd9e5&langs_count=8" height="155" alt="Top Languages"/>
 
 </div>
 
----
+<br/>
 
-## 🐍 Sea King (Contribution Snake)
+<!-- ═══════════════════════════════════════════════════ -->
+<!--           CONTRIBUTION SNAKE                       -->
+<!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
+
+<h2>🐍 // CONTRIBUTION.GRID</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ridzkyan/Ridzkyan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ridzkyan/Ridzkyan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ridzkyan/Ridzkyan/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Ridzkyan/Ridzkyan/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
----
+<br/>
 
-## 🏴‍☠️ Kata-Kata Bajak Laut
+<!-- ═══════════════════════════════════════════════════ -->
+<!--               ANIME GALLERY                        -->
+<!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWM5ZTlldXRuMGd4YzQ3M2M4aDVtejlza2dhYm1mN3poaHNkY3B2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="480px" alt="One Piece Straw Hat Crew"/>
+<h2>🌐 // ANIME.GALLERY</h2>
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="assets/profile_pic.jpg" width="180px" style="border-radius:12px;" alt="Profile"/><br/>
+  <sub><code>// profile.jpg</code></sub>
+</td>
+<td align="center" width="33%">
+  <img src="assets/contact_pic.jpg" width="180px" style="border-radius:12px;" alt="Contact"/><br/>
+  <sub><code>// contact.jpg</code></sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/l3vR0BvsNmFBfVv3i/giphy.gif" width="180px" style="border-radius:12px;" alt="Anime GIF"/><br/>
+  <sub><code>// anime.gif</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/xT9IgG50Lg7russbDa/giphy.gif" width="180px" style="border-radius:12px;" alt="Anime GIF 2"/><br/>
+  <sub><code>// vibe.gif</code></sub>
+</td>
+<td align="center" width="33%">
+  <img src="assets/Liyfez-A.png" width="180px" style="border-radius:12px;" alt="Liyfez"/><br/>
+  <sub><code>// Liyfez-A.png</code></sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/1oGT9vgHPMRmCLqnYN/giphy.gif" width="180px" style="border-radius:12px;" alt="Anime GIF 3"/><br/>
+  <sub><code>// future.gif</code></sub>
+</td>
+</tr>
+</table>
 
-| ☠️ Tokoh | 💬 Kata-Kata Bijak |
-|:---:|:---:|
-| **Monkey D. Luffy** | *"Aku tidak mau menjadi pahlawan. Aku hanya ingin menjadi Bajak Laut."* |
-| **Roronoa Zoro** | *"Tidak ada yang bisa mengalahkanku, karena aku tidak akan pernah menyerah."* |
-| **Nico Robin** | *"Impian tidak pernah mati — ia hanya menunggu orang yang cukup berani."* |
-| **Gol D. Roger** | *"Harta itu memang ada — kalau mau, cari saja sendiri!"* |
+</div>
 
 <br/>
 
-> ⚡ *"Jika kamu tidak mau kalah, jangan pernah berhenti berjuang.*  
-> *Karena orang yang tidak pernah menyerah, itulah yang disebut pemenang."*  
-> — **Roronoa Zoro** 🗡️
-
-</div>
-
----
-
-## 🤝 Join the Crew (Connect)
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                  QUOTES                            -->
+<!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ridzkyan-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ridzkyan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+<h2>💬 // KATA.BIJAK</h2>
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="340px" alt="Anime Think GIF"/>
+
+<br/><br/>
+
+| 🌟 Tokoh | ✨ Kata-Kata |
+|:---:|:---|
+| **Itadori Yuji** | *"Aku tidak akan menyesal. Apapun pilihanku, aku akan jalani tanpa penyesalan."* |
+| **Levi Ackerman** | *"Kalau kamu tidak mau menyesal, maka pikirkan matang-matang pilihanmu."* |
+| **Gojo Satoru** | *"Aku sudah lahir terkuat. Itu sudah lebih dari cukup."* |
+| **Naruto Uzumaki** | *"Aku tidak akan lari, karena itulah jalan ninjaku!"* |
+
+<br/>
+
+> 💡 *"Programmer terbaik bukan yang paling pintar,*
+> *tapi yang paling tahan banting saat error."*
+> — **Ridzkyan, 2024** 🧑‍💻
 
 </div>
 
----
+<br/>
 
-<!-- Footer Section -->
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                  CONNECT                           -->
+<!-- ═══════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- One Piece Ship Sailing GIF HD -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRlYW9vMmJ4eDIxeWZwdXhtYnZuZ2duczhxMGpnaTZyN2JlcGo4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YqcSFtpI9JwBi/giphy.gif" width="420px" alt="One Piece Ship"/>
+<h2>🔗 // CONNECT.ME</h2>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ridzkyan-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=0d1117)](https://github.com/Ridzkyan)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff&labelColor=0d1117)](mailto:your-email@gmail.com)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                   FOOTER                           -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif" width="380px" alt="Anime Footer GIF"/>
 
 <br/>
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  ☠️ Terima kasih sudah berkunjung ke Grand Line Port! ☠️  ║
-║     Jangan lupa kasih ⭐ sebelum berlayar pergi ya!       ║
+║   ✦ Terima kasih sudah mampir ke profil ini! ✦          ║
+║   Kalau suka, jangan lupa kasih ⭐ di repo favoritmu~   ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer" width="100%"/>
 
 </div>
