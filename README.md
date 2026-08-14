@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- One Piece Grand Line Banner Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Ridho%20Dzaky%20Raihan&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%98%A0%EF%B8%8F%20Setting%20Sail%20on%20the%20Grand%20Line%20of%20Code%20%E2%98%A0%EF%B8%8F&descAlignY=58&descSize=19" width="100%"/>
@@ -48,13 +48,13 @@ Fun_Fact: >
 </td>
 <td width="45%" align="center" valign="middle">
 
-<!-- One Piece Minimalist Straw Hats Visual -->
-<img src="https://media.giphy.com/media/tuCFp8oak0v7y/giphy.gif" width="280px" style="border-radius: 12px;" alt="Luffy Strawhats Vibe"/>
+<!-- One Piece HD Luffy GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWd6dXZ5NzU2NW9wOGZucHhwemRja3p5ZXNxd3Bkdmt3dXNhcHhjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="290px" alt="Luffy Running"/>
 
 <br/>
 
-> 👒 *"If you don't take risks, you can't create a future."*  
-> — **Monkey D. Luffy**
+> 👒 *"Kalau kamu tidak berani ambil risiko, kamu tidak bisa menciptakan masa depan."*  
+> — **Monkey D. Luffy** ☠️
 
 </td>
 </tr>
@@ -128,17 +128,26 @@ Fun_Fact: >
 
 ---
 
-## 🏴‍☠️ Pirate Words of Wisdom
+## 🏴‍☠️ Kata-Kata Bajak Laut
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWM5ZTlldXRuMGd4YzQ3M2M4aDVtejlza2dhYm1mN3poaHNkY3B2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="480px" alt="One Piece Straw Hat Crew"/>
 
 <br/><br/>
 
-> ⚡ *"Inherited Will, The Flow of Time, and The Dreams of Its People...*  
-> *As long as people continue to seek the true meaning of freedom, these things will never cease to be!"*  
-> — **Gol D. Roger** ☠️
+| ☠️ Tokoh | 💬 Kata-Kata Bijak |
+|:---:|:---:|
+| **Monkey D. Luffy** | *"Aku tidak mau menjadi pahlawan. Aku hanya ingin menjadi Bajak Laut."* |
+| **Roronoa Zoro** | *"Tidak ada yang bisa mengalahkanku, karena aku tidak akan pernah menyerah."* |
+| **Nico Robin** | *"Impian tidak pernah mati — ia hanya menunggu orang yang cukup berani."* |
+| **Gol D. Roger** | *"Harta itu memang ada — kalau mau, cari saja sendiri!"* |
+
+<br/>
+
+> ⚡ *"Jika kamu tidak mau kalah, jangan pernah berhenti berjuang.*  
+> *Karena orang yang tidak pernah menyerah, itulah yang disebut pemenang."*  
+> — **Roronoa Zoro** 🗡️
 
 </div>
 
@@ -158,13 +167,16 @@ Fun_Fact: >
 <!-- Footer Section -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Strawhats.gif" width="380px" style="border-radius: 8px;" alt="Strawhats Sailing"/>
+<!-- One Piece Ship Sailing GIF HD -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRlYW9vMmJ4eDIxeWZwdXhtYnZuZ2duczhxMGpnaTZyN2JlcGo4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YqcSFtpI9JwBi/giphy.gif" width="420px" alt="One Piece Ship"/>
+
+<br/>
 
 ```
-╔═══════════════════════════════════════════════════════╗
-║   🏴‍☠️ Arigato for visiting my Grand Line Port! 🏴‍☠️    ║
-║       Don't forget to leave a ⭐ before setting sail!  ║
-╚═══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║  ☠️ Terima kasih sudah berkunjung ke Grand Line Port! ☠️  ║
+║     Jangan lupa kasih ⭐ sebelum berlayar pergi ya!       ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=110&section=footer" width="100%"/>
