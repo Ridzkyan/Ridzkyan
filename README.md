@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Ridho%20Dzaky%20Raihan&fontSize=46&fontColor=00e5ff&animation=twinkling&fontAlignY=37&desc=〜%20Code.%20Create.%20Evolve.%20〜&descAlignY=57&descSize=19&descColor=7dd3fc" width="100%"/>
 
@@ -19,11 +19,9 @@
 <br/>
 
 <!-- pix-bat row header -->
-<img src="assets/pix-bat.gif" alt="bat"/>&ensp;
-<img src="assets/pix-bat.gif" alt="bat"/>&ensp;
-<img src="assets/pix-bat.gif" alt="bat"/>&ensp;
-<img src="assets/pix-bat.gif" alt="bat"/>&ensp;
-<img src="assets/pix-bat.gif" alt="bat"/>
+<img src="assets/pix-bat.gif" width="18px" alt="bat"/>&ensp;
+<img src="assets/pix-bat.gif" width="18px" alt="bat"/>&ensp;
+<img src="assets/pix-bat.gif" width="18px" alt="bat"/>
 
 </div>
 
@@ -61,14 +59,13 @@ const ridzkyan = {
 ```
 
 <div align="left">
-<img src="assets/pix-bat.gif" alt="bat"/>
-<img src="assets/pix-bat.gif" alt="bat"/>
-<img src="assets/pix-bat.gif" alt="bat"/>
+<img src="assets/pix-bat.gif" width="18px" alt="bat"/>&ensp;
+<img src="assets/pix-bat.gif" width="18px" alt="bat"/>
 </div>
 
 <br/>
 
-<img src="assets/g4.gif" width="100%" alt="anime gif"/>
+<img src="assets/g4.gif" width="95%" alt="anime gif"/>
 
 </td>
 <td width="45%" align="center" valign="top">
@@ -77,11 +74,11 @@ const ridzkyan = {
 
 <br/><br/>
 
-<img src="assets/g2.gif" width="95%" alt="anime gif"/>
+<img src="assets/g2.gif" width="95%" style="border-radius:10px;" alt="anime gif"/>
 
 <br/><br/>
 
-<img src="assets/g9.gif" width="95%" alt="anime gif"/>
+<img src="assets/g9.gif" width="95%" style="border-radius:10px;" alt="anime gif"/>
 
 </td>
 </tr>
@@ -115,7 +112,7 @@ const ridzkyan = {
 
 <br/><br/>
 
-<img src="assets/g3.gif" width="92%" alt="anime gif"/>
+<img src="assets/g3.gif" width="95%" style="border-radius:10px;" alt="anime gif"/>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -134,7 +131,7 @@ const ridzkyan = {
 
 <br/><br/>
 
-<img src="assets/Liyfez-A.png" width="92%" style="border-radius:10px;" alt="Liyfez art"/>
+<img src="assets/Liyfez-A.png" width="95%" style="border-radius:10px;" alt="Liyfez art"/>
 
 </td>
 </tr>
@@ -242,16 +239,14 @@ const ridzkyan = {
 <br/>
 
 <div align="left">
-<img src="assets/pix-bat.gif" alt="bat"/>
-<img src="assets/pix-bat.gif" alt="bat"/>
-<img src="assets/pix-bat.gif" alt="bat"/>
-<img src="assets/pix-bat.gif" alt="bat"/>
-<img src="assets/pix-bat.gif" alt="bat"/>
+<img src="assets/pix-bat.gif" width="18px" alt="bat"/>&ensp;
+<img src="assets/pix-bat.gif" width="18px" alt="bat"/>&ensp;
+<img src="assets/pix-bat.gif" width="18px" alt="bat"/>
 </div>
 
 <br/>
 
-<img src="assets/g7.gif" width="100%" alt="anime gif"/>
+<img src="assets/g7.gif" width="95%" style="border-radius:10px;" alt="anime gif"/>
 
 </td>
 <td width="45%" align="center" valign="top">
@@ -299,13 +294,9 @@ const ridzkyan = {
 
 <br/>
 
-<img src="assets/pix-bat.gif" alt="bat"/>&ensp;
-<img src="assets/pix-bat.gif" alt="bat"/>&ensp;
-<img src="assets/pix-bat.gif" alt="bat"/>&ensp;
-<img src="assets/pix-bat.gif" alt="bat"/>&ensp;
-<img src="assets/pix-bat.gif" alt="bat"/>&ensp;
-<img src="assets/pix-bat.gif" alt="bat"/>&ensp;
-<img src="assets/pix-bat.gif" alt="bat"/>
+<img src="assets/pix-bat.gif" width="18px" alt="bat"/>&ensp;
+<img src="assets/pix-bat.gif" width="18px" alt="bat"/>&ensp;
+<img src="assets/pix-bat.gif" width="18px" alt="bat"/>
 
 <br/>
 
