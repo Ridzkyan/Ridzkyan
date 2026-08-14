@@ -70,7 +70,7 @@ const ridzkyan = {
 </td>
 <td width="45%" align="center" valign="top">
 
-<img src="assets/profile_pic.jpg" width="210px" style="border-radius:16px;" alt="Profile"/>
+<img src="assets/profile_pic.jpg" width="95%" style="border-radius:16px;" alt="Profile"/>
 
 <br/><br/>
 
@@ -251,7 +251,7 @@ const ridzkyan = {
 </td>
 <td width="45%" align="center" valign="top">
 
-<img src="assets/contact_pic.jpg" width="210px" style="border-radius:14px;" alt="Anime art"/>
+<img src="assets/contact_pic.jpg" width="95%" style="border-radius:14px;" alt="Anime art"/>
 
 <br/><br/>
 
