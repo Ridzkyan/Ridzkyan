@@ -157,18 +157,6 @@ const ridzkyan = {
 
 
 
-### 📈 // PINNED.REPOS
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ridzkyan&repo=Ridzkyan&theme=tokyonight&border_radius=10" width="100%"/>
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ridzkyan&repo=botbaleschatwa&theme=tokyonight&border_radius=10" width="100%"/>
-</td>
-</tr>
-</table>
 
 </div>
 
