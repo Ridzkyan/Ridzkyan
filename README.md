@@ -135,6 +135,12 @@ const ridzkyan = {
 
 <br/><br/>
 
+<!-- Stats Cards Row -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ridzkyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&icon_color=0ea5e9&text_color=cdd9e5&rank_icon=github" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridzkyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&text_color=cdd9e5" width="40%" alt="Top Languages"/>
+
+<br/><br/>
+
 <!-- Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridzkyan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00e5ff&ring=0ea5e9&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=cdd9e5&currStreakNum=ffffff&sideNums=ffffff" width="60%" alt="Streak"/>
 
@@ -173,6 +179,26 @@ const ridzkyan = {
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Ridzkyan/Ridzkyan/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
+<br/><br/>
+
+### 🌐 // CONTRIBUTION.3D
+
+<img src="https://raw.githubusercontent.com/Ridzkyan/Ridzkyan/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph"/>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════ -->
+<!--               PROGRAMMING JOKES              -->
+<!-- ══════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 😂 // DAILY.JOKE
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
 </div>
 
 <br/>
@@ -186,6 +212,10 @@ const ridzkyan = {
 ### 🔗 // CONNECT.ME
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ridzkyan-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=0d1117)](https://github.com/Ridzkyan)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dzakyraihan7154-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=0d1117)](https://www.linkedin.com/in/dzakyraihan7154/)
+&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-mas__jakiii-0d1117?style=for-the-badge&logo=instagram&logoColor=00e5ff&labelColor=0d1117)](https://www.instagram.com/mas_jakiii)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff&labelColor=0d1117)](mailto:your-email@gmail.com)
 
