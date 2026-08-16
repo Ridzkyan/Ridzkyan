@@ -12,7 +12,23 @@
 &ensp;
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00e5ff?style=flat-square&labelColor=0d1117"/>
 &ensp;
-<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-0ea5e9?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/BASE-INDONESIA-0ea5e9?style=flat-square&labelColor=0d1117"/>
+&ensp;
+<img src="https://img.shields.io/badge/TIMEZONE-UTC%2B7-00e5ff?style=flat-square&labelColor=0d1117"/>
+&ensp;
+<img src="https://img.shields.io/badge/PRONOUNS-HE%20/%20HIM-0ea5e9?style=flat-square&labelColor=0d1117"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ROLE-FULL%20STACK%20DEV-0ea5e9?style=flat-square&labelColor=0d1117"/>
+&ensp;
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-00e5ff?style=flat-square&labelColor=0d1117"/>
+&ensp;
+<img src="https://img.shields.io/badge/STUDENT-INFORMATICS-0ea5e9?style=flat-square&labelColor=0d1117"/>
+&ensp;
+<img src="https://img.shields.io/badge/CODE%20STYLE-NIGHT%20OWL-00e5ff?style=flat-square&labelColor=0d1117"/>
+&ensp;
+<img src="https://img.shields.io/badge/EDITOR-VS%20CODE-0ea5e9?style=flat-square&labelColor=0d1117"/>
 
 <br/>
 
