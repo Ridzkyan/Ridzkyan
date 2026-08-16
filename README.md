@@ -58,6 +58,8 @@ const ridzkyan = {
   philosophy   : "Jika ada 99% yang gagal, berarti ada 1% yang berhasil",
   aaaaaaa
   aaaaaa
+  aaaaa
+  aaaaaa
 };
 ```
 
