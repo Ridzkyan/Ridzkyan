@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Ridho%20Dzaky%20Raihan&fontSize=46&fontColor=00e5ff&animation=twinkling&fontAlignY=37&desc=〜%20Code.%20Create.%20Evolve.%20〜&descAlignY=57&descSize=19&descColor=7dd3fc" width="100%"/>
+<img src="assets/g1.gif" width="100%" alt="header gif"/>
 
 <a href="https://github.com/Ridzkyan">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=50&lines=%5B+SYSTEM+BOOT%3A+Ridzkyan+ONLINE+%5D+%E2%9A%A1;Full+Stack+Developer+%7C+Anime+Enthusiast;Mahasiswa+yang+Doyan+Ngoding+Diam-Diam+%F0%9F%92%BB;%E2%80%9CError+adalah+guru+terbaik.%E2%80%9D+%F0%9F%94%A5;Berjalan+pelan+tidak+masalah%2C+asal+jangan+berhenti+%E2%9C%A8" alt="Typing SVG"/>
@@ -256,12 +256,6 @@ const ridzkyan = {
 [![Instagram](https://img.shields.io/badge/Instagram-mas__jakiii-0d1117?style=for-the-badge&logo=instagram&logoColor=00e5ff&labelColor=0d1117)](https://www.instagram.com/mas_jakiii)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff&labelColor=0d1117)](mailto:your-email@gmail.com)
-
-<br/>
-
-<img src="assets/Liyfez-A.png" width="40%" style="border-radius:16px;" alt="Liyfez art"/>
-
-<br/>
 
 ```
 ╔══════════════════════════════════════════════════════════╗
