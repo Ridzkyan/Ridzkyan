@@ -56,6 +56,8 @@ const ridzkyan = {
   currentFocus : "Kadang ngoding kadang tidur",
   funFact      : "Tidur jam 6 pagi bangun jam 6 sore",
   philosophy   : "Jika ada 99% yang gagal, berarti ada 1% yang berhasil",
+  aaaaaaa
+  aaaaaa
 };
 ```
 
