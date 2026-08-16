@@ -75,7 +75,7 @@ const ridzkyan = {
 
 <br/><br/>
 
-<img src="assets/Liyfez-A.png" width="80%" style="border-radius:10px;" alt="Liyfez art"/>
+<img src="assets/Liyfez-A.png" width="90%" style="border-radius:10px;" alt="Liyfez art"/>
 
 </td>
 </tr>
@@ -125,7 +125,7 @@ const ridzkyan = {
 <tr>
 <td width="50%" valign="top" align="center">
 <br/>
-<img src="assets/g4.gif" width="90%" style="border-radius:10px;" alt="anime gif"/>
+<img src="assets/g4.gif" width="80%%" style="border-radius:10px;" alt="anime gif"/>
 </td>
 <td width="50%" valign="top" align="center">
 <br/>
