@@ -225,14 +225,20 @@ const ridzkyan = {
 
 <!-- JOKE_START -->
 > *Jokes ala bapak-bapak Indonesia, gratis tidak dipungut biaya 🧔*
-> *(Siklus hari ke-4/16 — jokes 13–16 dari 64)*
+> *(Siklus hari ke-4/7 — jokes 31–40 dari 64)*
 
 | 🎤 Pertanyaan | 😆 Jawaban |
 |:---|:---|
-| Roti, roti apa yang suka nyuri? | **Jamb**read 🍞🦹 |
-| Kumis, kumis apa yang bikin salting? | **Kumiss** you 😳 |
-| Kenapa ginjal ada dua? | Karena kalau satu **ganjil** 🫘 |
-| Gunung Sumbing kalau meletus bunyinya? | **Nuaaall** 🌋 |
+| Apa yang badannya hijau, kepalanya merah, jalannya mundur? | **Obat nyamuk bakar** 🌀 |
+| Siapa yang potong rambut tiap hari tetapi tidak botak? | **Tukang pangkas!** ✂️ |
+| Kenapa di keyboard ada tulisan ENTER? | Karena kalau **ENTAR** programnya nggak jalan-jalan ⌨️ |
+| Kenapa air laut asin? | Karena ikannya pada **berkeringat** 🐟💦 |
+| Kenapa kambing berjenggot? | Karena kalau berkumis nanti dikira **Pak Raden** 🐐 |
+| Sapi apa yang larinya cepat? | **Sapi-da motor** 🐄💨 |
+| Suku apa yang banyak berkeliaran di mal? | **Suku-riti** 🛡️ |
+| Ikan apa yang matanya sangat banyak? | **Ikan teri satu kilo** 🐟👁️ |
+| Binatang apa yang tidak sampai-sampai? | **Lama** 🦙 |
+| Hewan apa yang selalu sehat? | **Ul-araga** 🐍💪 |
 <!-- JOKE_END -->
 
 </td>

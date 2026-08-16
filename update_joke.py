@@ -1,19 +1,20 @@
 import json
+import math
 from datetime import datetime
 
-JOKES_PER_DAY = 4
+JOKES_PER_DAY = 10
 
 # Load jokes
 with open("jokes.json", "r", encoding="utf-8") as f:
     jokes = json.load(f)
 
-total_jokes = len(jokes)                       # 64
-cycle_days  = total_jokes // JOKES_PER_DAY     # 16 hari per siklus
+total_jokes = len(jokes)
+cycle_days  = math.ceil(total_jokes / JOKES_PER_DAY)
 
 # Pilih grup berdasarkan hari dalam siklus
 day_of_year = datetime.now().timetuple().tm_yday
-day_index   = (day_of_year - 1) % cycle_days  # 0 - 15
-start       = day_index * JOKES_PER_DAY        # 0, 4, 8, ...
+day_index   = (day_of_year - 1) % cycle_days
+start       = day_index * JOKES_PER_DAY
 
 today_jokes = jokes[start : start + JOKES_PER_DAY]
 
