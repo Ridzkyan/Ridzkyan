@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Ridho%20Dzaky%20Raihan&fontSize=46&fontColor=00e5ff&animation=twinkling&fontAlignY=37&desc=〜%20Code.%20Create.%20Evolve.%20〜&descAlignY=57&descSize=19&descColor=7dd3fc" width="100%"/>
 
@@ -16,9 +16,7 @@
 
 <br/>
 
-<img src="assets/pix-bat.gif" width="18px" alt="bat"/>&ensp;
-<img src="assets/pix-bat.gif" width="18px" alt="bat"/>&ensp;
-<img src="assets/pix-bat.gif" width="18px" alt="bat"/>
+
 
 </div>
 
@@ -48,16 +46,14 @@ const ridzkyan = {
     database : ["MySQL"],
   },
 
-  currentFocus : "Jadi developer yang bisa ngoding",
-  funFact      : "Enggan ngoding... tapi selalu kelar 🤫",
-  philosophy   : "Berjalan pelan tidak masalah,
-                  yang penting tidak berhenti ✨",
+  currentFocus : "Kadang ngoding kadang tidur",
+  funFact      : "Tidur jam 6 pagi bangun jam 6 sore",
+  philosophy   : "Jika ada 99% yang gagal,
+                  Berarti ada 1% yang berhasil",
 };
 ```
 
 <div align="left">
-<img src="assets/pix-bat.gif" width="18px" alt="bat"/>&ensp;
-<img src="assets/pix-bat.gif" width="18px" alt="bat"/>
 </div>
 
 </td>
@@ -95,8 +91,6 @@ const ridzkyan = {
 
 <img src="https://skillicons.dev/icons?i=nodejs,python,php,go&theme=dark&perline=4" alt="backend"/>
 
-<br/><br/>
-<img src="assets/Liyfez-A.png" width="90%" style="border-radius:10px;" alt="Liyfez art"/>
 </td>
 <td width="50%" valign="top" align="center">
 
@@ -112,7 +106,15 @@ const ridzkyan = {
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4" alt="tools"/>
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<br/>
+<img src="assets/Liyfez-A.png" width="90%" style="border-radius:10px;" alt="Liyfez art"/>
+</td>
+<td width="50%" valign="top" align="center">
+<br/>
 <img src="assets/g9.gif" width="90%" style="border-radius:10px;" alt="anime gif"/>
 </td>
 </tr>
@@ -176,45 +178,6 @@ const ridzkyan = {
 <br/>
 
 <!-- ══════════════════════════════════════════════ -->
-<!--                   QUOTES                     -->
-<!-- ══════════════════════════════════════════════ -->
-
-### 💬 // KATA.BIJAK
-
-| 🌟 Tokoh | ✨ Kata-Kata |
-|:---|:---|
-| **Itadori Yuji** | *"Aku tidak akan menyesal — apapun pilihanku, aku jalani sampai akhir."* |
-| **Levi Ackerman** | *"Kalau kamu tidak mau menyesal, pikirkan matang-matang setiap langkahmu."* |
-| **Gojo Satoru** | *"Aku sudah lahir terkuat. Itu sudah lebih dari cukup."* |
-| **Naruto Uzumaki** | *"Aku tidak akan lari, karena itulah jalan ninjaku!"* |
-| **Sung Jin-Woo** | *"Aku tidak takut mati — aku takut tidak menjadi lebih kuat."* |
-
-<br/>
-
-<div align="center">
-
-> 💡 *"Programmer terbaik bukan yang paling pintar,*
-> *tapi yang paling tahan banting saat error."*
-> — **Ridzkyan** 🧑‍💻
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<img src="assets/g7.gif" width="80%" style="border-radius:10px;" alt="anime gif"/>
-</td>
-<td width="50%" align="center">
-<img src="assets/g3.gif" width="80%" style="border-radius:10px;" alt="anime gif"/>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════ -->
 <!--                  CONNECT                     -->
 <!-- ══════════════════════════════════════════════ -->
 
@@ -228,9 +191,7 @@ const ridzkyan = {
 
 <br/>
 
-<img src="assets/pix-bat.gif" width="18px" alt="bat"/>&ensp;
-<img src="assets/pix-bat.gif" width="18px" alt="bat"/>&ensp;
-<img src="assets/pix-bat.gif" width="18px" alt="bat"/>
+
 
 <br/>
 
