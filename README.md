@@ -146,22 +146,6 @@ const ridzkyan = {
 <img src="assets/g7.gif" width="85%" style="border-radius:10px;" alt="anime gif"/>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top" align="center">
-<br/>
-<img src="assets/g5.gif" width="85%" style="border-radius:10px;" alt="anime gif"/>
-</td>
-<td width="50%" valign="top" align="center">
-<br/>
-<img src="assets/g8.gif" width="85%" style="border-radius:10px;" alt="anime gif"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" align="center">
-<br/>
-<img src="assets/g9.gif" width="42%" style="border-radius:10px;" alt="anime gif"/>
-</td>
-</tr>
 </table>
 
 <br/>
