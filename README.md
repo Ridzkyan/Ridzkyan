@@ -89,8 +89,6 @@ const ridzkyan = {
 <tr>
 <td width="50%" valign="top" align="center">
 
-### ⚡ // TECH.STACK
-
 **🌐 Frontend & Framework**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6" alt="frontend"/>
