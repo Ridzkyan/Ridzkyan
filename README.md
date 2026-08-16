@@ -155,11 +155,7 @@ const ridzkyan = {
 
 <br/><br/>
 
-### 📊 // ADVANCED.METRICS
 
-<img src="https://raw.githubusercontent.com/Ridzkyan/Ridzkyan/main/github-metrics.svg" width="100%" alt="Metrics Infographics" onerror="this.style.display='none'"/>
-
-<br/><br/>
 
 ### 📈 // PINNED.REPOS
 
@@ -284,6 +280,10 @@ const ridzkyan = {
 ║   Kalau suka, jangan lupa kasih ⭐ di repo favoritmu~   ║
 ╚══════════════════════════════════════════════════════════╝
 ```
+
+
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer" width="100%"/>
 
