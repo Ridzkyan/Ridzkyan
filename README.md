@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Ridho%20Dzaky%20Raihan&fontSize=46&fontColor=00e5ff&animation=twinkling&fontAlignY=37&desc=〜%20Code.%20Create.%20Evolve.%20〜&descAlignY=57&descSize=19&descColor=7dd3fc" width="100%"/>
 
+<img src="assets/g1.gif" width="100%" style="margin-top:-6px;" alt="header gif"/>
+
 <a href="https://github.com/Ridzkyan">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=50&lines=%5B+SYSTEM+BOOT%3A+Ridzkyan+ONLINE+%5D+%E2%9A%A1;Full+Stack+Developer+%7C+Anime+Enthusiast;Mahasiswa+yang+Doyan+Ngoding+Diam-Diam+%F0%9F%92%BB;%E2%80%9CError+adalah+guru+terbaik.%E2%80%9D+%F0%9F%94%A5;Berjalan+pelan+tidak+masalah%2C+asal+jangan+berhenti+%E2%9C%A8" alt="Typing SVG"/>
 </a>
@@ -73,7 +75,7 @@ const ridzkyan = {
 
 <br/><br/>
 
-<img src="assets/g4.gif" width="80%" style="border-radius:10px;" alt="anime gif"/>
+<img src="assets/Liyfez-A.png" width="80%" style="border-radius:10px;" alt="Liyfez art"/>
 
 </td>
 </tr>
@@ -123,7 +125,7 @@ const ridzkyan = {
 <tr>
 <td width="50%" valign="top" align="center">
 <br/>
-<img src="assets/Liyfez-A.png" width="90%" style="border-radius:10px;" alt="Liyfez art"/>
+<img src="assets/g4.gif" width="90%" style="border-radius:10px;" alt="anime gif"/>
 </td>
 <td width="50%" valign="top" align="center">
 <br/>
@@ -173,10 +175,13 @@ const ridzkyan = {
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 <img src="assets/g6.gif" width="100%" style="border-radius:10px;" alt="anime gif"/>
 </td>
-<td width="50%" align="center">
+<td width="34%" align="center">
+<img src="assets/g3.gif" width="100%" style="border-radius:10px;" alt="anime gif"/>
+</td>
+<td width="33%" align="center">
 <img src="assets/g2.gif" width="100%" style="border-radius:10px;" alt="anime gif"/>
 </td>
 </tr>
@@ -246,7 +251,7 @@ const ridzkyan = {
 
 <br/>
 
-
+<img src="assets/contact_pic.jpg" width="40%" style="border-radius:16px;" alt="Contact"/>
 
 <br/>
 
