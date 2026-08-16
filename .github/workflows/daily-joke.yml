@@ -1,0 +1,35 @@
+name: Daily Joke Updater 😂
+
+on:
+  schedule:
+    - cron: "0 17 * * *"  # Runs every day at 00:00 WIB (UTC+7 = 17:00 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-joke:
+    runs-on: ubuntu-latest
+    name: Update Daily Joke
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Run joke updater
+        run: python update_joke.py
+
+      - name: Commit & Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add README.md
+          git commit -m "😂 Daily joke update - $(date +'%Y-%m-%d')" || echo "No changes"
+          git push

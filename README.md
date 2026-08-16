@@ -89,6 +89,8 @@ const ridzkyan = {
 <tr>
 <td width="50%" valign="top" align="center">
 
+
+
 **🌐 Frontend & Framework**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6" alt="frontend"/>
@@ -212,15 +214,13 @@ const ridzkyan = {
 
 ### 😂 // DAILY.JOKE
 
+<!-- JOKE_START -->
 > *Jokes ala bapak-bapak Indonesia, gratis tidak dipungut biaya 🧔*
 
 | 🎤 Pertanyaan | 😆 Jawaban |
 |:---|:---|
-| Kenapa programmer selalu bawa payung? | Karena ada kemungkinan **rain** *(rename)* |
-| Apa bedanya programmer sama tukang becak? | Tukang becak kerja **manual**, programmer kerja **auto** *(otomatis)* |
-| Kenapa kode saya tidak bisa jalan? | Karena kodenya **tidur**, bukan **run** 😴 |
-| Apa yang dikatakan bug ke programmer? | *"Kamu tidak akan pernah **fix** aku!"* |
-| Kenapa programmer suka ngopi? | Karena tanpa **Java**, hidup terasa **null** ☕ |
+| Kenapa matahari tenggelam? | Karena nggak bisa berenang 🌊 |
+<!-- JOKE_END -->
 
 </div>
 
