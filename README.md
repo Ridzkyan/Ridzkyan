@@ -34,10 +34,12 @@
 
 ```ts
 const ridzkyan = {
-  name    : "Ridho Dzaky Raihan",
-  alias   : "Ridzkyan",
-  status  : "Mahasiswa 🎓",
-  base    : "Indonesia 🇮🇩",
+  name        : "Ridho Dzaky Raihan",
+  alias       : "Ridzkyan",
+  status      : "Mahasiswa 🎓",
+  base        : "Indonesia 🇮🇩",
+  age         : 20,
+  pronouns    : "He / Him",
 
   stack: {
     frontend : ["React", "Next.js", "TypeScript"],
@@ -46,10 +48,14 @@ const ridzkyan = {
     database : ["MySQL"],
   },
 
+  interests    : ["Anime", "Coding", "Tech", "Gaming"],
+  os           : "Windows + WSL (Linux)",
+  editor       : "VS Code  ⚡",
+  learning     : ["System Design", "DevOps", "Next.js 15"],
+  openTo       : ["Internship", "Freelance", "Collab"],
   currentFocus : "Kadang ngoding kadang tidur",
   funFact      : "Tidur jam 6 pagi bangun jam 6 sore",
-  philosophy   : "Jika ada 99% yang gagal,
-                  Berarti ada 1% yang berhasil",
+  philosophy   : "Jika ada 99% yang gagal, berarti ada 1% yang berhasil",
 };
 ```
 
@@ -136,8 +142,9 @@ const ridzkyan = {
 <br/><br/>
 
 <!-- Stats Cards Row -->
-<img src="https://github-readme-stats.vercel.app/api?username=Ridzkyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&icon_color=0ea5e9&text_color=cdd9e5&rank_icon=github" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridzkyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&text_color=cdd9e5" width="40%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ridzkyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&icon_color=0ea5e9&text_color=cdd9e5&rank_icon=github&cache_seconds=1800" width="49%" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridzkyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&text_color=cdd9e5&cache_seconds=1800&langs_count=8" width="40%" alt="Top Languages"/>
 
 <br/><br/>
 
