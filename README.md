@@ -85,6 +85,12 @@ const ridzkyan = {
 <!--                  TECH STACK                  -->
 <!-- ══════════════════════════════════════════════ -->
 
+<div align="center">
+
+### ⚡ // TECH.STACK
+
+</div>
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
@@ -101,8 +107,6 @@ const ridzkyan = {
 
 </td>
 <td width="50%" valign="top" align="center">
-
-
 
 **📱 Mobile & Database**
 
