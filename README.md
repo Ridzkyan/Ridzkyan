@@ -248,7 +248,7 @@ const ridzkyan = {
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-<img src="assets/Liyfez-A.png" width="85%" style="border-radius:10px;" alt="Liyfez art"/>
+<img src="assets/Liyfez-A.png" width="95%" style="border-radius:10px;" alt="Liyfez art"/>
 </td>
 <td width="50%" align="center">
 <img src="assets/g3.gif" width="85%" style="border-radius:10px;" alt="anime gif"/>
@@ -280,9 +280,6 @@ const ridzkyan = {
 ║   Kalau suka, jangan lupa kasih ⭐ di repo favoritmu~   ║
 ╚══════════════════════════════════════════════════════════╝
 ```
-
-
-
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer" width="100%"/>
