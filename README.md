@@ -143,10 +143,16 @@ const ridzkyan = {
 
 <br/><br/>
 
-<!-- Stats Cards Row -->
-<img src="https://github-readme-stats.vercel.app/api?username=Ridzkyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&icon_color=0ea5e9&text_color=cdd9e5&rank_icon=github&cache_seconds=1800" width="49%" alt="GitHub Stats"/>
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridzkyan&theme=tokyonight" width="32%" alt="Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridzkyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&text_color=cdd9e5&cache_seconds=1800&langs_count=8" width="40%" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridzkyan&theme=tokyonight" width="32%" alt="Repos per Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridzkyan&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridzkyan&theme=tokyonight" width="100%" alt="Profile Details"/>
 
 <br/><br/>
 
