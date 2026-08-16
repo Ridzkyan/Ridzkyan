@@ -40,6 +40,8 @@ const ridzkyan = {
   base        : "Indonesia 🇮🇩",
   age         : 20,
   pronouns    : "He / Him",
+  timezone    : "Asia/Jakarta (UTC+7) 🕐",
+  languages   : ["Bahasa Indonesia 🇮🇩", "English 🇬🇧"],
 
   stack: {
     frontend : ["React", "Next.js", "TypeScript"],
@@ -53,13 +55,11 @@ const ridzkyan = {
   editor       : "VS Code  ⚡",
   learning     : ["System Design", "DevOps", "Next.js 15"],
   openTo       : ["Internship", "Freelance", "Collab"],
+  favAnime     : ["Solo Leveling", "Evangelion", "Jujutsu Kaisen"],
+  workStyle    : "Night Owl 🦉 — best code at 2AM",
   currentFocus : "Kadang ngoding kadang tidur",
   funFact      : "Tidur jam 6 pagi bangun jam 6 sore",
   philosophy   : "Jika ada 99% yang gagal, berarti ada 1% yang berhasil",
-  aaaaaaa
-  aaaaaa
-  aaaaa
-  aaaaaa
 };
 ```
 
