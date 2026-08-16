@@ -36,9 +36,9 @@
 const ridzkyan = {
   name        : "Ridho Dzaky Raihan",
   alias       : "Ridzkyan",
-  status      : "Mahasiswa 🎓",
+  status      : "Mahasiswa Informatika",
   base        : "Indonesia 🇮🇩",
-  age         : 20,
+  age         : 21,
   pronouns    : "He / Him",
   timezone    : "Asia/Jakarta (UTC+7) 🕐",
   languages   : ["Bahasa Indonesia 🇮🇩", "English 🇬🇧"],
@@ -55,7 +55,7 @@ const ridzkyan = {
   editor       : "VS Code  ⚡",
   learning     : ["System Design", "DevOps", "Next.js 15"],
   openTo       : ["Internship", "Freelance", "Collab"],
-  favAnime     : ["Solo Leveling", "Evangelion", "Jujutsu Kaisen"],
+  favAnime     : ["One Piece", "Naruto", "Demon Slayer"],
   workStyle    : "Night Owl 🦉 — best code at 2AM",
   currentFocus : "Kadang ngoding kadang tidur",
   funFact      : "Tidur jam 6 pagi bangun jam 6 sore",
@@ -89,6 +89,8 @@ const ridzkyan = {
 <tr>
 <td width="50%" valign="top" align="center">
 
+### ⚡ // TECH.STACK
+
 **🌐 Frontend & Framework**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6" alt="frontend"/>
@@ -102,7 +104,7 @@ const ridzkyan = {
 </td>
 <td width="50%" valign="top" align="center">
 
-<br/>
+### &nbsp;
 
 **📱 Mobile & Database**
 
