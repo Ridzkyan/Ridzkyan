@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header-banner.gif" width="100%" alt="header gif"/>
+<img src="assets/animated-header.svg" width="100%" alt="header banner"/>
 
 <a href="https://github.com/Ridzkyan">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=50&lines=%5B+SYSTEM+BOOT%3A+Ridzkyan+ONLINE+%5D+%E2%9A%A1;Full+Stack+Developer+%7C+Anime+Enthusiast;Mahasiswa+yang+Doyan+Ngoding+Diam-Diam+%F0%9F%92%BB;%E2%80%9CError+adalah+guru+terbaik.%E2%80%9D+%F0%9F%94%A5;Berjalan+pelan+tidak+masalah%2C+asal+jangan+berhenti+%E2%9C%A8" alt="Typing SVG"/>
