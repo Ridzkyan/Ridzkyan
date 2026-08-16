@@ -75,7 +75,7 @@ const ridzkyan = {
 
 <br/><br/>
 
-<img src="assets/Liyfez-A.png" width="90%" style="border-radius:10px;" alt="Liyfez art"/>
+<img src="assets/contact_pic.jpg" width="90%" style="border-radius:16px;" alt="Contact"/>
 
 </td>
 </tr>
@@ -125,11 +125,11 @@ const ridzkyan = {
 <tr>
 <td width="50%" valign="top" align="center">
 <br/>
-<img src="assets/g4.gif" width="80%%" style="border-radius:10px;" alt="anime gif"/>
+<img src="assets/g4.gif" width="85%" style="border-radius:10px;" alt="anime gif"/>
 </td>
 <td width="50%" valign="top" align="center">
 <br/>
-<img src="assets/g9.gif" width="90%" style="border-radius:10px;" alt="anime gif"/>
+<img src="assets/g9.gif" width="85%" style="border-radius:10px;" alt="anime gif"/>
 </td>
 </tr>
 </table>
@@ -217,7 +217,18 @@ const ridzkyan = {
 <!--               PROGRAMMING JOKES              -->
 <!-- ══════════════════════════════════════════════ -->
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="35%" valign="top" align="center">
+
+<img src="assets/Liyfez-A.png" width="100%" style="border-radius:10px;" alt="Liyfez art"/>
+
+<br/><br/>
+
+<img src="assets/g3.gif" width="100%" style="border-radius:10px;" alt="anime gif"/>
+
+</td>
+<td width="65%" valign="top">
 
 ### 😂 // DAILY.JOKE
 
@@ -229,7 +240,9 @@ const ridzkyan = {
 | Suku apa yang banyak berkeliaran di mal? | **Suku-riti** 🛡️ |
 <!-- JOKE_END -->
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -251,7 +264,7 @@ const ridzkyan = {
 
 <br/>
 
-<img src="assets/contact_pic.jpg" width="40%" style="border-radius:16px;" alt="Contact"/>
+<img src="assets/Liyfez-A.png" width="40%" style="border-radius:16px;" alt="Liyfez art"/>
 
 <br/>
 
