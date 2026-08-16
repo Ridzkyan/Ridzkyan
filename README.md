@@ -8,27 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ridzkyan&style=flat-square&color=00e5ff&label=▶%20VISITORS"/>
-&ensp;
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00e5ff?style=flat-square&labelColor=0d1117"/>
-&ensp;
-<img src="https://img.shields.io/badge/BASE-INDONESIA-0ea5e9?style=flat-square&labelColor=0d1117"/>
-&ensp;
-<img src="https://img.shields.io/badge/TIMEZONE-UTC%2B7-00e5ff?style=flat-square&labelColor=0d1117"/>
-&ensp;
-<img src="https://img.shields.io/badge/PRONOUNS-HE%20/%20HIM-0ea5e9?style=flat-square&labelColor=0d1117"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ROLE-FULL%20STACK%20DEV-0ea5e9?style=flat-square&labelColor=0d1117"/>
-&ensp;
-<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-00e5ff?style=flat-square&labelColor=0d1117"/>
-&ensp;
-<img src="https://img.shields.io/badge/STUDENT-INFORMATICS-0ea5e9?style=flat-square&labelColor=0d1117"/>
-&ensp;
-<img src="https://img.shields.io/badge/CODE%20STYLE-NIGHT%20OWL-00e5ff?style=flat-square&labelColor=0d1117"/>
-&ensp;
-<img src="https://img.shields.io/badge/EDITOR-VS%20CODE-0ea5e9?style=flat-square&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=Ridzkyan&style=flat-square&color=00e5ff&label=▶%20VISITORS"/> <img src="https://img.shields.io/badge/STATUS-ONLINE-00e5ff?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/BASE-INDONESIA-0ea5e9?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/TIMEZONE-UTC%2B7-00e5ff?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/PRONOUNS-HE%20/%20HIM-0ea5e9?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/ROLE-FULL%20STACK%20DEV-0ea5e9?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-00e5ff?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/STUDENT-INFORMATICS-0ea5e9?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/CODE%20STYLE-NIGHT%20OWL-00e5ff?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/EDITOR-VS%20CODE-0ea5e9?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/OS-WINDOWS%2011-00e5ff?style=flat-square&logo=windows&logoColor=white&labelColor=0d1117"/> <img src="https://img.shields.io/badge/SUBSYSTEM-WSL%20UBUNTU-0ea5e9?style=flat-square&logo=ubuntu&logoColor=white&labelColor=0d1117"/> <img src="https://img.shields.io/badge/LEARNING-SYSTEM%20DESIGN-00e5ff?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/FOCUS-NEXT.JS%2015-0ea5e9?style=flat-square&logo=next.js&logoColor=white&labelColor=0d1117"/> <img src="https://img.shields.io/badge/ANIME-ONE%20PIECE-00e5ff?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/HOBBY-GAMING-0ea5e9?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/MUSIC-LOFI%20/%20J--POP-00e5ff?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/COFFEE-BLACK-0ea5e9?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/LANG-INDONESIAN-00e5ff?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/LANG-ENGLISH-0ea5e9?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/FRAMEWORK-REACT-00e5ff?style=flat-square&logo=react&logoColor=white&labelColor=0d1117"/> <img src="https://img.shields.io/badge/BACKEND-NODE.JS-0ea5e9?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117"/> <img src="https://img.shields.io/badge/DB-MYSQL-00e5ff?style=flat-square&logo=mysql&logoColor=white&labelColor=0d1117"/> <img src="https://img.shields.io/badge/BROWSER-CHROME-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117"/>
 
 <br/>
 
