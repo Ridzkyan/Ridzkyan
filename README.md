@@ -143,7 +143,7 @@ const ridzkyan = {
 </td>
 <td width="50%" valign="top" align="center">
 <br/>
-<img src="assets/g7.gif" width="85%" style="border-radius:10px;" alt="anime gif"/>
+<img src="assets/g7.gif" width="90%" style="border-radius:10px;" alt="anime gif"/>
 </td>
 </tr>
 </table>
