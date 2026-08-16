@@ -71,7 +71,7 @@ const ridzkyan = {
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="assets/profile_pic.jpg" width="80%" style="border-radius:16px;" alt="Profile"/>
+<img src="assets/profile_pic.jpg" width="100%" style="border-radius:16px;" alt="Profile"/>
 
 <br/><br/>
 
@@ -177,9 +177,6 @@ const ridzkyan = {
 <tr>
 <td width="33%" align="center">
 <img src="assets/g6.gif" width="100%" style="border-radius:10px;" alt="anime gif"/>
-</td>
-<td width="34%" align="center">
-<img src="assets/g3.gif" width="100%" style="border-radius:10px;" alt="anime gif"/>
 </td>
 <td width="33%" align="center">
 <img src="assets/g2.gif" width="100%" style="border-radius:10px;" alt="anime gif"/>
