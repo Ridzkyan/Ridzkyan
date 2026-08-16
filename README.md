@@ -219,7 +219,7 @@ const ridzkyan = {
 
 | 🎤 Pertanyaan | 😆 Jawaban |
 |:---|:---|
-| Kenapa matahari tenggelam? | Karena nggak bisa berenang 🌊 |
+| Suku apa yang banyak berkeliaran di mal? | **Suku-riti** 🛡️ |
 <!-- JOKE_END -->
 
 </div>
