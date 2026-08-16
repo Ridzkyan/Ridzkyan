@@ -234,10 +234,14 @@ const ridzkyan = {
 
 <!-- JOKE_START -->
 > *Jokes ala bapak-bapak Indonesia, gratis tidak dipungut biaya 🧔*
+> *(Siklus hari ke-4/16 — jokes 13–16 dari 64)*
 
 | 🎤 Pertanyaan | 😆 Jawaban |
 |:---|:---|
-| Suku apa yang banyak berkeliaran di mal? | **Suku-riti** 🛡️ |
+| Roti, roti apa yang suka nyuri? | **Jamb**read 🍞🦹 |
+| Kumis, kumis apa yang bikin salting? | **Kumiss** you 😳 |
+| Kenapa ginjal ada dua? | Karena kalau satu **ganjil** 🫘 |
+| Gunung Sumbing kalau meletus bunyinya? | **Nuaaall** 🌋 |
 <!-- JOKE_END -->
 
 </td>
