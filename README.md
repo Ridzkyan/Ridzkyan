@@ -144,20 +144,35 @@ const ridzkyan = {
 <br/><br/>
 
 <!-- Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ridzkyan&theme=tokyonight" width="32%" alt="Stats"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ridzkyan&theme=tokyonight" width="32%" alt="Repos per Language"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridzkyan&theme=tokyonight" width="32%" alt="Most Commit Language"/>
-
-<br/><br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridzkyan&theme=tokyonight" width="100%" alt="Profile Details"/>
 
 <br/><br/>
 
-<!-- Streak -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ridzkyan&theme=tokyonight" width="35%" alt="Most Commit Language"/>
+&ensp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridzkyan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00e5ff&ring=0ea5e9&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=cdd9e5&currStreakNum=ffffff&sideNums=ffffff" width="60%" alt="Streak"/>
+
+<br/><br/>
+
+### 📊 // ADVANCED.METRICS
+
+<img src="https://raw.githubusercontent.com/Ridzkyan/Ridzkyan/main/github-metrics.svg" width="100%" alt="Metrics Infographics" onerror="this.style.display='none'"/>
+
+<br/><br/>
+
+### 📈 // PINNED.REPOS
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ridzkyan&repo=Ridzkyan&theme=tokyonight&border_radius=10" width="100%"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ridzkyan&repo=botbaleschatwa&theme=tokyonight&border_radius=10" width="100%"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -208,18 +223,7 @@ const ridzkyan = {
 <!--               PROGRAMMING JOKES              -->
 <!-- ══════════════════════════════════════════════ -->
 
-<table width="100%">
-<tr>
-<td width="35%" valign="top" align="center">
-
-<img src="assets/Liyfez-A.png" width="100%" style="border-radius:10px;" alt="Liyfez art"/>
-
-<br/><br/>
-
-<img src="assets/g3.gif" width="100%" style="border-radius:10px;" alt="anime gif"/>
-
-</td>
-<td width="65%" valign="top">
+<div align="center">
 
 ### 😂 // DAILY.JOKE
 
@@ -241,6 +245,17 @@ const ridzkyan = {
 | Hewan apa yang selalu sehat? | **Ul-araga** 🐍💪 |
 <!-- JOKE_END -->
 
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="assets/Liyfez-A.png" width="85%" style="border-radius:10px;" alt="Liyfez art"/>
+</td>
+<td width="50%" align="center">
+<img src="assets/g3.gif" width="85%" style="border-radius:10px;" alt="anime gif"/>
 </td>
 </tr>
 </table>
