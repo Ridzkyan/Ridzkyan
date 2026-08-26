@@ -213,20 +213,14 @@ const ridzkyan = {
 
 <!-- JOKE_START -->
 > *Jokes ala bapak-bapak Indonesia, gratis tidak dipungut biaya 🧔*
-> *(Siklus hari ke-6/7 — jokes 51–60 dari 64)*
+> *(Siklus hari ke-7/7 — jokes 61–70 dari 64)*
 
 | 🎤 Pertanyaan | 😆 Jawaban |
 |:---|:---|
-| Kenapa kita harus berdoa sebelum minum air? | Karena ada tiga jin: dua **hidro-Jin** dan satu **oksi-Jin** 💧🧞 |
-| Apa yang kalau dipotong malah makin tinggi? | **Celana** 👖✂️ |
-| Gerakan apa yang paling susah dilakuin? | **Move on** 💔 |
-| Buah apa yang pernah menjajah Indonesia? | **Terong Belanda** 🍆🇳🇱 |
-| Sayur apa yang pintar nyanyi? | **Kol-play** 🥬🎵 |
-| Apa perbedaan sepatu sama jengkol? | Sepatu **di-semir**, jengkol **di-semur** 👟🍛 |
-| Apa perbedaan semut dan orang? | Orang bisa **ke-semut-an**, tapi semut tidak bisa **ke-orang-an** 🐜 |
-| Kenapa superman ada huruf S di bajunya? | Karena kalau ukuran **M atau XL** sudah pasti terlalu lebar 🦸‍♂️ |
-| Siapa pemain bola yang beratnya 3 kg? | **Bambang tabung gas** ⚽🔵 |
-| Tahu nggak kenapa kucing nggak di penjara pas jadi maling? | Soalnya kucing **ga wrong** 🐱⚖️ |
+| Gendang apa yang nggak bisa dipukul? | **Gendang telinga** 👂🥁 |
+| Orang apa yang nggak pernah kebasahan waktu hujan? | **Orang nggak hujan** ☔ |
+| Kenapa burung terbang ke selatan waktu musim dingin? | Karena kalau jalan **kejauhan** 🐦❄️ |
+| Kenapa dokter saat operasi mulutnya ditutup? | Karena kalau **matanya** yang ditutup nggak bisa melihat 😷 |
 <!-- JOKE_END -->
 
 </div>
