@@ -213,14 +213,20 @@ const ridzkyan = {
 
 <!-- JOKE_START -->
 > *Jokes ala bapak-bapak Indonesia, gratis tidak dipungut biaya 🧔*
-> *(Siklus hari ke-7/7 — jokes 61–70 dari 64)*
+> *(Siklus hari ke-2/7 — jokes 11–20 dari 64)*
 
 | 🎤 Pertanyaan | 😆 Jawaban |
 |:---|:---|
-| Gendang apa yang nggak bisa dipukul? | **Gendang telinga** 👂🥁 |
-| Orang apa yang nggak pernah kebasahan waktu hujan? | **Orang nggak hujan** ☔ |
-| Kenapa burung terbang ke selatan waktu musim dingin? | Karena kalau jalan **kejauhan** 🐦❄️ |
-| Kenapa dokter saat operasi mulutnya ditutup? | Karena kalau **matanya** yang ditutup nggak bisa melihat 😷 |
+| Susu, susu apa yang selalu telat? | Susu **kede-lay** ⏰🥛 |
+| Superhero yang selalu selamat di setiap keadaan? | **Aku-Aman** 🦸‍♂️ |
+| Roti, roti apa yang suka nyuri? | **Jamb**read 🍞🦹 |
+| Kumis, kumis apa yang bikin salting? | **Kumiss** you 😳 |
+| Kenapa ginjal ada dua? | Karena kalau satu **ganjil** 🫘 |
+| Gunung Sumbing kalau meletus bunyinya? | **Nuaaall** 🌋 |
+| Huruf apa yang paling kedinginan? | **B**, karena berada di tengah-tengah **AC** 🥶 |
+| Kera, kera apa yang diinjak nggak marah? | **Kera**mik 🐒 |
+| Gajah, gajah apa yang baik? | **Gaj-ahat**... eh tunggu, **Gajahat** itu bukan baik! 🐘 |
+| Kue, kue apa yang nggak pernah bohong? | Kue **cucur** — cu-cur beneran! 🍮 |
 <!-- JOKE_END -->
 
 </div>
