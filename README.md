@@ -213,20 +213,20 @@ const ridzkyan = {
 
 <!-- JOKE_START -->
 > *Jokes ala bapak-bapak Indonesia, gratis tidak dipungut biaya 🧔*
-> *(Siklus hari ke-4/7 — jokes 31–40 dari 64)*
+> *(Siklus hari ke-5/7 — jokes 41–50 dari 64)*
 
 | 🎤 Pertanyaan | 😆 Jawaban |
 |:---|:---|
-| Apa yang badannya hijau, kepalanya merah, jalannya mundur? | **Obat nyamuk bakar** 🌀 |
-| Siapa yang potong rambut tiap hari tetapi tidak botak? | **Tukang pangkas!** ✂️ |
-| Kenapa di keyboard ada tulisan ENTER? | Karena kalau **ENTAR** programnya nggak jalan-jalan ⌨️ |
-| Kenapa air laut asin? | Karena ikannya pada **berkeringat** 🐟💦 |
-| Kenapa kambing berjenggot? | Karena kalau berkumis nanti dikira **Pak Raden** 🐐 |
-| Sapi apa yang larinya cepat? | **Sapi-da motor** 🐄💨 |
-| Suku apa yang banyak berkeliaran di mal? | **Suku-riti** 🛡️ |
-| Ikan apa yang matanya sangat banyak? | **Ikan teri satu kilo** 🐟👁️ |
-| Binatang apa yang tidak sampai-sampai? | **Lama** 🦙 |
-| Hewan apa yang selalu sehat? | **Ul-araga** 🐍💪 |
+| Ikan apa yang suka berhenti? | **Ikan pause** ⏸️🐟 |
+| Kenapa ayam kalau berkokok, matanya merem? | Karena sudah **hafal teksnya** 🐓 |
+| Gajah terbang dengan apa? | Dengan **susah payah** 🐘✈️ |
+| Uang 100 ribu kalau dilempar jadi apa? | Jadi **rebutan!** 💰 |
+| Kesenian apa yang selalu dilakukan nasabah bank? | **Tari tunai** 💃🏧 |
+| Kalau kijang sama kuda tabrakan yang mati siapa? | **Supirnya** 🚗💥 |
+| Pocong apa yang favorit ibu-ibu? | **Pocongan harga** 👻🛒 |
+| Apa persamaan cokelat dan kuburan? | Sama-sama **band terkenal!** 🎸⚰️ |
+| Hewan apa yang hobi telat ke sekolah? | **Kaki seribu** — kelamaan pakai sepatunya 🐛🎒 |
+| Warna apa yang paling nggak peduli? | **Biru don't care** 💙 |
 <!-- JOKE_END -->
 
 </div>
