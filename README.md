@@ -213,14 +213,20 @@ const ridzkyan = {
 
 <!-- JOKE_START -->
 > *Jokes ala bapak-bapak Indonesia, gratis tidak dipungut biaya 🧔*
-> *(Siklus hari ke-7/7 — jokes 61–70 dari 64)*
+> *(Siklus hari ke-1/7 — jokes 1–10 dari 64)*
 
 | 🎤 Pertanyaan | 😆 Jawaban |
 |:---|:---|
-| Gendang apa yang nggak bisa dipukul? | **Gendang telinga** 👂🥁 |
-| Orang apa yang nggak pernah kebasahan waktu hujan? | **Orang nggak hujan** ☔ |
-| Kenapa burung terbang ke selatan waktu musim dingin? | Karena kalau jalan **kejauhan** 🐦❄️ |
-| Kenapa dokter saat operasi mulutnya ditutup? | Karena kalau **matanya** yang ditutup nggak bisa melihat 😷 |
+| Kenapa matahari tenggelam? | Karena nggak bisa berenang 🌊 |
+| Burung, burung apa yang suka nolak? | Burung **gakgak** 🐦 |
+| Sayuran apa yang dingin? | Kembang **cold** 🥦❄️ |
+| Nun mati bertemu ain? | Ain-nya terkejut 😱 |
+| Gula, gula apa yang bukan gula? | Gula **aren't** 🍬 |
+| Nama kota apa yang banyak bapak-bapaknya? | **Purwodaddy** 👨‍👨‍👦 |
+| Bakso apa yang nggak boleh dilihat tapi enak dimakan? | Bakso **aurat** 🍜 |
+| Hewan apa yang taat lalu lintas? | **Unta**-makan keselamatan 🐪 |
+| Ikan, ikan apa yang bisa terbang? | **Lele**lawar 🦇🐟 |
+| Kenapa air mata warnanya bening? | Kalau warna ijo namanya **air matcha** 🍵😭 |
 <!-- JOKE_END -->
 
 </div>
