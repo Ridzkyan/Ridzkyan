@@ -213,20 +213,20 @@ const ridzkyan = {
 
 <!-- JOKE_START -->
 > *Jokes ala bapak-bapak Indonesia, gratis tidak dipungut biaya 🧔*
-> *(Siklus hari ke-5/7 — jokes 41–50 dari 64)*
+> *(Siklus hari ke-6/7 — jokes 51–60 dari 64)*
 
 | 🎤 Pertanyaan | 😆 Jawaban |
 |:---|:---|
-| Ikan apa yang suka berhenti? | **Ikan pause** ⏸️🐟 |
-| Kenapa ayam kalau berkokok, matanya merem? | Karena sudah **hafal teksnya** 🐓 |
-| Gajah terbang dengan apa? | Dengan **susah payah** 🐘✈️ |
-| Uang 100 ribu kalau dilempar jadi apa? | Jadi **rebutan!** 💰 |
-| Kesenian apa yang selalu dilakukan nasabah bank? | **Tari tunai** 💃🏧 |
-| Kalau kijang sama kuda tabrakan yang mati siapa? | **Supirnya** 🚗💥 |
-| Pocong apa yang favorit ibu-ibu? | **Pocongan harga** 👻🛒 |
-| Apa persamaan cokelat dan kuburan? | Sama-sama **band terkenal!** 🎸⚰️ |
-| Hewan apa yang hobi telat ke sekolah? | **Kaki seribu** — kelamaan pakai sepatunya 🐛🎒 |
-| Warna apa yang paling nggak peduli? | **Biru don't care** 💙 |
+| Kenapa kita harus berdoa sebelum minum air? | Karena ada tiga jin: dua **hidro-Jin** dan satu **oksi-Jin** 💧🧞 |
+| Apa yang kalau dipotong malah makin tinggi? | **Celana** 👖✂️ |
+| Gerakan apa yang paling susah dilakuin? | **Move on** 💔 |
+| Buah apa yang pernah menjajah Indonesia? | **Terong Belanda** 🍆🇳🇱 |
+| Sayur apa yang pintar nyanyi? | **Kol-play** 🥬🎵 |
+| Apa perbedaan sepatu sama jengkol? | Sepatu **di-semir**, jengkol **di-semur** 👟🍛 |
+| Apa perbedaan semut dan orang? | Orang bisa **ke-semut-an**, tapi semut tidak bisa **ke-orang-an** 🐜 |
+| Kenapa superman ada huruf S di bajunya? | Karena kalau ukuran **M atau XL** sudah pasti terlalu lebar 🦸‍♂️ |
+| Siapa pemain bola yang beratnya 3 kg? | **Bambang tabung gas** ⚽🔵 |
+| Tahu nggak kenapa kucing nggak di penjara pas jadi maling? | Soalnya kucing **ga wrong** 🐱⚖️ |
 <!-- JOKE_END -->
 
 </div>
