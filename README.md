@@ -213,20 +213,20 @@ const ridzkyan = {
 
 <!-- JOKE_START -->
 > *Jokes ala bapak-bapak Indonesia, gratis tidak dipungut biaya 🧔*
-> *(Siklus hari ke-4/7 — jokes 31–40 dari 64)*
+> *(Siklus hari ke-6/7 — jokes 51–60 dari 64)*
 
 | 🎤 Pertanyaan | 😆 Jawaban |
 |:---|:---|
-| Apa yang badannya hijau, kepalanya merah, jalannya mundur? | **Obat nyamuk bakar** 🌀 |
-| Siapa yang potong rambut tiap hari tetapi tidak botak? | **Tukang pangkas!** ✂️ |
-| Kenapa di keyboard ada tulisan ENTER? | Karena kalau **ENTAR** programnya nggak jalan-jalan ⌨️ |
-| Kenapa air laut asin? | Karena ikannya pada **berkeringat** 🐟💦 |
-| Kenapa kambing berjenggot? | Karena kalau berkumis nanti dikira **Pak Raden** 🐐 |
-| Sapi apa yang larinya cepat? | **Sapi-da motor** 🐄💨 |
-| Suku apa yang banyak berkeliaran di mal? | **Suku-riti** 🛡️ |
-| Ikan apa yang matanya sangat banyak? | **Ikan teri satu kilo** 🐟👁️ |
-| Binatang apa yang tidak sampai-sampai? | **Lama** 🦙 |
-| Hewan apa yang selalu sehat? | **Ul-araga** 🐍💪 |
+| Kenapa kita harus berdoa sebelum minum air? | Karena ada tiga jin: dua **hidro-Jin** dan satu **oksi-Jin** 💧🧞 |
+| Apa yang kalau dipotong malah makin tinggi? | **Celana** 👖✂️ |
+| Gerakan apa yang paling susah dilakuin? | **Move on** 💔 |
+| Buah apa yang pernah menjajah Indonesia? | **Terong Belanda** 🍆🇳🇱 |
+| Sayur apa yang pintar nyanyi? | **Kol-play** 🥬🎵 |
+| Apa perbedaan sepatu sama jengkol? | Sepatu **di-semir**, jengkol **di-semur** 👟🍛 |
+| Apa perbedaan semut dan orang? | Orang bisa **ke-semut-an**, tapi semut tidak bisa **ke-orang-an** 🐜 |
+| Kenapa superman ada huruf S di bajunya? | Karena kalau ukuran **M atau XL** sudah pasti terlalu lebar 🦸‍♂️ |
+| Siapa pemain bola yang beratnya 3 kg? | **Bambang tabung gas** ⚽🔵 |
+| Tahu nggak kenapa kucing nggak di penjara pas jadi maling? | Soalnya kucing **ga wrong** 🐱⚖️ |
 <!-- JOKE_END -->
 
 </div>
