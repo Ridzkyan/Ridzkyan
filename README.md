@@ -213,20 +213,20 @@ const ridzkyan = {
 
 <!-- JOKE_START -->
 > *Jokes ala bapak-bapak Indonesia, gratis tidak dipungut biaya 🧔*
-> *(Siklus hari ke-2/7 — jokes 11–20 dari 64)*
+> *(Siklus hari ke-3/7 — jokes 21–30 dari 64)*
 
 | 🎤 Pertanyaan | 😆 Jawaban |
 |:---|:---|
-| Susu, susu apa yang selalu telat? | Susu **kede-lay** ⏰🥛 |
-| Superhero yang selalu selamat di setiap keadaan? | **Aku-Aman** 🦸‍♂️ |
-| Roti, roti apa yang suka nyuri? | **Jamb**read 🍞🦹 |
-| Kumis, kumis apa yang bikin salting? | **Kumiss** you 😳 |
-| Kenapa ginjal ada dua? | Karena kalau satu **ganjil** 🫘 |
-| Gunung Sumbing kalau meletus bunyinya? | **Nuaaall** 🌋 |
-| Huruf apa yang paling kedinginan? | **B**, karena berada di tengah-tengah **AC** 🥶 |
-| Kera, kera apa yang diinjak nggak marah? | **Kera**mik 🐒 |
-| Gajah, gajah apa yang baik? | **Gaj-ahat**... eh tunggu, **Gajahat** itu bukan baik! 🐘 |
-| Kue, kue apa yang nggak pernah bohong? | Kue **cucur** — cu-cur beneran! 🍮 |
+| Hewan apa yang deket banget sama temen? | **A Crab** — sahabat sejati 🦀 |
+| Siapa pemain bola yang punya usaha pengobatan? | **David Bekam** ⚽💆 |
+| Bubur apa yang kecil tapi bisa digedein? | Bubur **zoom-zoom** 🔍🍚 |
+| Telor asin takut ama siapa? | **Telur puyuh**, karena tatonya lebih banyak 🥚 |
+| Apa persamaan antara uang dan rahasia? | Sama-sama **susah dipegang** 💸🤫 |
+| Hewan apa yang bersaudara? | **Katak Beradik** 🐸 |
+| Sabun apa yang paling genit? | Sabun **colek** 😉🧼 |
+| Selalu diam di pojok tapi bisa keliling dunia? | **Perangko** 📮 |
+| Pintu apa yang walaupun didorong sepuluh orang pun tidak terbuka? | Pintu yang ada tulisan **TARIK** 🚪 |
+| Rambut putih uban, rambut merah pirang, kalau rambut hijau namanya apa? | **Rambutan** belum mateng 🌿 |
 <!-- JOKE_END -->
 
 </div>
