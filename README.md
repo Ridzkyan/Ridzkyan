@@ -213,20 +213,20 @@ const ridzkyan = {
 
 <!-- JOKE_START -->
 > *Jokes ala bapak-bapak Indonesia, gratis tidak dipungut biaya 🧔*
-> *(Siklus hari ke-1/7 — jokes 1–10 dari 64)*
+> *(Siklus hari ke-2/7 — jokes 11–20 dari 64)*
 
 | 🎤 Pertanyaan | 😆 Jawaban |
 |:---|:---|
-| Kenapa matahari tenggelam? | Karena nggak bisa berenang 🌊 |
-| Burung, burung apa yang suka nolak? | Burung **gakgak** 🐦 |
-| Sayuran apa yang dingin? | Kembang **cold** 🥦❄️ |
-| Nun mati bertemu ain? | Ain-nya terkejut 😱 |
-| Gula, gula apa yang bukan gula? | Gula **aren't** 🍬 |
-| Nama kota apa yang banyak bapak-bapaknya? | **Purwodaddy** 👨‍👨‍👦 |
-| Bakso apa yang nggak boleh dilihat tapi enak dimakan? | Bakso **aurat** 🍜 |
-| Hewan apa yang taat lalu lintas? | **Unta**-makan keselamatan 🐪 |
-| Ikan, ikan apa yang bisa terbang? | **Lele**lawar 🦇🐟 |
-| Kenapa air mata warnanya bening? | Kalau warna ijo namanya **air matcha** 🍵😭 |
+| Susu, susu apa yang selalu telat? | Susu **kede-lay** ⏰🥛 |
+| Superhero yang selalu selamat di setiap keadaan? | **Aku-Aman** 🦸‍♂️ |
+| Roti, roti apa yang suka nyuri? | **Jamb**read 🍞🦹 |
+| Kumis, kumis apa yang bikin salting? | **Kumiss** you 😳 |
+| Kenapa ginjal ada dua? | Karena kalau satu **ganjil** 🫘 |
+| Gunung Sumbing kalau meletus bunyinya? | **Nuaaall** 🌋 |
+| Huruf apa yang paling kedinginan? | **B**, karena berada di tengah-tengah **AC** 🥶 |
+| Kera, kera apa yang diinjak nggak marah? | **Kera**mik 🐒 |
+| Gajah, gajah apa yang baik? | **Gaj-ahat**... eh tunggu, **Gajahat** itu bukan baik! 🐘 |
+| Kue, kue apa yang nggak pernah bohong? | Kue **cucur** — cu-cur beneran! 🍮 |
 <!-- JOKE_END -->
 
 </div>
