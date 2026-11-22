@@ -213,20 +213,20 @@ const ridzkyan = {
 
 <!-- JOKE_START -->
 > *Jokes ala bapak-bapak Indonesia, gratis tidak dipungut biaya 🧔*
-> *(Siklus hari ke-3/7 — jokes 21–30 dari 64)*
+> *(Siklus hari ke-4/7 — jokes 31–40 dari 64)*
 
 | 🎤 Pertanyaan | 😆 Jawaban |
 |:---|:---|
-| Hewan apa yang deket banget sama temen? | **A Crab** — sahabat sejati 🦀 |
-| Siapa pemain bola yang punya usaha pengobatan? | **David Bekam** ⚽💆 |
-| Bubur apa yang kecil tapi bisa digedein? | Bubur **zoom-zoom** 🔍🍚 |
-| Telor asin takut ama siapa? | **Telur puyuh**, karena tatonya lebih banyak 🥚 |
-| Apa persamaan antara uang dan rahasia? | Sama-sama **susah dipegang** 💸🤫 |
-| Hewan apa yang bersaudara? | **Katak Beradik** 🐸 |
-| Sabun apa yang paling genit? | Sabun **colek** 😉🧼 |
-| Selalu diam di pojok tapi bisa keliling dunia? | **Perangko** 📮 |
-| Pintu apa yang walaupun didorong sepuluh orang pun tidak terbuka? | Pintu yang ada tulisan **TARIK** 🚪 |
-| Rambut putih uban, rambut merah pirang, kalau rambut hijau namanya apa? | **Rambutan** belum mateng 🌿 |
+| Apa yang badannya hijau, kepalanya merah, jalannya mundur? | **Obat nyamuk bakar** 🌀 |
+| Siapa yang potong rambut tiap hari tetapi tidak botak? | **Tukang pangkas!** ✂️ |
+| Kenapa di keyboard ada tulisan ENTER? | Karena kalau **ENTAR** programnya nggak jalan-jalan ⌨️ |
+| Kenapa air laut asin? | Karena ikannya pada **berkeringat** 🐟💦 |
+| Kenapa kambing berjenggot? | Karena kalau berkumis nanti dikira **Pak Raden** 🐐 |
+| Sapi apa yang larinya cepat? | **Sapi-da motor** 🐄💨 |
+| Suku apa yang banyak berkeliaran di mal? | **Suku-riti** 🛡️ |
+| Ikan apa yang matanya sangat banyak? | **Ikan teri satu kilo** 🐟👁️ |
+| Binatang apa yang tidak sampai-sampai? | **Lama** 🦙 |
+| Hewan apa yang selalu sehat? | **Ul-araga** 🐍💪 |
 <!-- JOKE_END -->
 
 </div>
